@@ -1,1 +1,1 @@
-# A directory for alx web pack
+# A directory for alx webpack
