@@ -1,0 +1,13 @@
+:root {
+  --main-color: #e01d3f;
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  font-style: italic;
+  justify-content: center;
+  border-top: 3px solid var(--main-color);
+}
